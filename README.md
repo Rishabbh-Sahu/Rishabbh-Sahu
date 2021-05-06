@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabbh</h1>
 <h3 align="center">Data Scientist and Consultant, having experience across multiple industries like Retail, Manufacturing, FMCG etc.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabbh-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="rishabbh-sahu" /> </p>
-
 - 🔭 I’m currently working on Deep learning projects
 
 - 🌱 I’m currently learning language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG intent classification, NER, email classification, sentence/document similarity, information retrieval using tfidf etc.
@@ -28,6 +26,8 @@
 
 
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabbh-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="rishabbh-sahu" /> </p>
+
 👋 Hi, I’m Rishabbh, Data Scientist and Consultant, having experience across multiple industries like Retail, Manufacturing, FMCG etc.
 
 👀 I’m interested in sharing, learning and exploring with open source communities and motivated to create projects pertaining to ML/DL, research work and consulting assignments.
