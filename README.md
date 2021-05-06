@@ -13,7 +13,7 @@
 
 - 💬 Ask me about NLU/NLP, Time series forecasting, Optimization, Recommendation engine, Customer 360 analysis, Statistics, Retail analytics, Supply chain analytics
 
-- 📫 You can reach me on "www.linkedin.com/in/rishabbh-sahu-pmp"
+- 📫 You can reach me on www.linkedin.com/in/rishabbh-sahu-pmp
 
 <br />
 <br />
