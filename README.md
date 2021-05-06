@@ -9,7 +9,7 @@ I'm currently:
 
 - 🌱 Learning optimization, time series anlalysis using deep learning, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG intent classification, NER, email classification, sentence/document similarity, information retrieval using tfidf etc.
 
-- 👯 looking to collaborate on Deep learning and ML related projects and Kaggle competitions
+- 👯 looking to collaborate on ML/DL projects and Kaggle competitions
 
 <br />
 About my work: 
