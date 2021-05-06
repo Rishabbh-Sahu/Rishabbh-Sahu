@@ -5,7 +5,7 @@
 <br />
 I'm currently:
 
-- 🔭 Working on Deep learning projects
+- 🔭 Working on Deep learning projects (Autoencoders, transfer learnings, pre-trained models, incremental models, layer pruning etc.)
 
 - 🌱 Learning language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG intent classification, NER, email classification, sentence/document similarity, information retrieval using tfidf etc.
 
