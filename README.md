@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rishabbh</h1>
 <h10 align="center">Data Scientist and Consultant, having experience across multiple industries like Retail, Manufacturing, FMCG etc.</h10>
 
-- 🔭 I’m currently working on Deep learning projects
+<br />
+<br />
+I'm currently:
 
-- 🌱 I’m currently learning language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG intent classification, NER, email classification, sentence/document similarity, information retrieval using tfidf etc.
+- 🔭 Working on Deep learning projects
 
-- 👯 I’m looking to collaborate on Deep learning and ML related projects
+- 🌱 Learning language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG intent classification, NER, email classification, sentence/document similarity, information retrieval using tfidf etc.
+
+- 👯 looking to collaborate on Deep learning and ML related projects
+
+<br />
+About my work: 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishabbh-Sahu](https://github.com/Rishabbh-Sahu)
 
