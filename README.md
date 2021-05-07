@@ -31,12 +31,10 @@ About my work:
 <br />
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabbh-sahu&show_icons=true&locale=en&layout=compact" alt="rishabbh-sahu" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabbh-sahu&show_icons=true&locale=en" alt="rishabbh-sahu" /></p>
 
 
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabbh-sahu&show_icons=true&locale=en" alt="rishabbh-sahu" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabbh-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="rishabbh-sahu" /> </p>
 
 👋 Hi, I’m Rishabbh, Data Scientist and Consultant, having experience across multiple industries like Retail, Manufacturing, FMCG etc.
