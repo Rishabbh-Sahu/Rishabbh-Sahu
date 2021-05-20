@@ -18,7 +18,7 @@ About my work:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishabbh-Sahu](https://github.com/Rishabbh-Sahu)
 
-- 💬 Ask me about NLU/NLP, Time series forecasting, Data augmentation, Segmentation, Optimization, Recommendation engine, Customer 360 analysis, Statistics, Retail analytics, Supply chain analytics, PCA, Regularization techniques, Bias and varaince
+- 💬 Ask me about NLU/NLP, Time series forecasting, Data augmentation, feature selection methods, Segmentation, Optimization, Recommendation engine, Customer 360 analysis, Statistics, Retail analytics, Supply chain analytics, Dimensionality reduction, Regularization techniques, Bias and varaince and similar topics 
 
 - 📫 You can reach me on www.linkedin.com/in/rishabbh-sahu-pmp
 
