@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabbh</h1>
-<h10 align="center">Data Scientist and Consultant, having experience across multiple industries like Retail, Manufacturing, FMCG etc.</h10>
+<h10 align="center">Data Scientist and consultant, having experience across multiple industries like retail, manufacturing, FMCG etc.</h10>
 
 <br />
 <br />
