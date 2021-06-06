@@ -5,7 +5,7 @@
 <br />
 I'm currently:
 
-- 🔭 Working on deep learning projects (transfer learnings, pre-trained models, incremental models, layer pruning, quantization and distillation) language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf etc.
+- 🔭 Working on deep learning projects such as transfer learnings, pre-trained models, incremental models, layer pruning, quantization and distillation, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf etc.
 
 - 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning, linear programming, anomaly detection, feature learning, MLOps (ML pipeline), model interpretability 
 
