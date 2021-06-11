@@ -5,7 +5,7 @@
 <br />
 I'm currently:
 
-- 🔭 Working on deep learning projects such as transfer learnings, pre-trained models, incremental models, layer pruning, quantization and distillation, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf etc.
+- 🔭 Working on deep learning projects such as transfer learnings, pre-trained models (transformers), incremental models, layer pruning, quantization and distillation, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf etc.
 
 - 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning, linear programming (optimization), anomaly detection, feature learning, MLOps (ML pipeline), model interpretability, ablation study
 
@@ -18,7 +18,7 @@ About my work:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishabbh-Sahu](https://github.com/Rishabbh-Sahu)
 
-- 💬 Ask me about NLU/NLP, time series analysis (forecasting), deep learning, data augmentation, dialog system (voice models), PLM's, model ensembling/stacking, feature selection methods, segmentation, tokenization (text), optimization, recommendation engine, customer 360 analysis, statistics, retail analytics, supply chain analytics, dimensionality reduction, regularization techniques, bias and varaince, DOE - design of experiments (ANOVA,T/F/Chi^2/Z test), sampling methods, A/B testing
+- 💬 Ask me about NLU/NLP, time series analysis (forecasting), deep learning, data augmentation, dialog system (voice models), PLM's, model ensembling/stacking, feature selection methods, segmentation, tokenization (text), optimization, recommendation engine, customer 360 analysis, statistics, retail analytics, supply chain analytics, dimensionality reduction, regularization techniques, bias & varaince, DOE - design of experiments (ANOVA,T/F/Chi^2/Z test), sampling methods, A/B testing
 
 - 📫 You can reach me on www.linkedin.com/in/rishabbh-sahu-pmp
 
