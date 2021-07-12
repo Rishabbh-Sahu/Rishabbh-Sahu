@@ -18,7 +18,7 @@ About my work:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishabbh-Sahu](https://github.com/Rishabbh-Sahu)
 
-- 💬 Ask me about NLU/NLP, time series analysis (forecasting), deep learning, data augmentation, dialog system (voice models), PLM's (pre-trained language models), model ensembling/stacking, feature selection methods, segmentation, tokenization (text), optimization, recommendation engine, customer 360 analysis, statistics, retail analytics, supply chain analytics, dimensionality reduction, regularization techniques, bias & varaince, DOE-design of experiments (ANOVA,T/F/Chi^2/Z test), sampling methods, A/B testing
+- 💬 Ask me about NLU/NLP, time series analysis (forecasting), deep learning, data augmentation, dialog system (voice models), PLM's (pre-trained language models), model ensembling/stacking, feature selection methods, segmentation, tokenization (text), optimization, recommendation engine, customer 360 analysis, statistics, retail analytics, supply chain analytics, dimensionality reduction, regularization techniques, bias & varaince, DOE-design of experiments (ANOVA,T/F/Chi^2/Z-test), sampling methods, A/B testing
 
 - 📫 You can reach me on www.linkedin.com/in/rishabbh-sahu-pmp
 
