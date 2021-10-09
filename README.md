@@ -11,7 +11,7 @@ I'm currently:
 
 - 👀 Interested in doing research work/consulting assignments by sharing, learning and exploring to/from open source communities. Motivated to create numerous projects in the field of AI/ML/DL
 
-- 👯 Looking to collaborate on ML/DL projects and Kaggle competitions
+- 👯 Looking forward to collaborate on ML/DL projects and Kaggle competitions
 
 <br />
 About my work: 
