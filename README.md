@@ -5,7 +5,7 @@
 <br />
 I'm currently:
 
-- 🔭 Working on deep learning projects such as transfer learnings, pre-trained models (transformers), incremental models, layer pruning, quantization and distillation, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf, context based auto-completion, RestAPI's flask-endpoint, production deployment, docker containers, kubernetes etc.
+- 🔭 Working on deep learning projects such as transfer learnings, pre-trained models (transformers), incremental models, layer pruning, quantization and distillation, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf, context based auto-completion, RestAPI's flask-endpoint, production deployment, docker containers, kubernetes, CI/CD pipeline etc.
 
 - 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning (deepstates model-gluonTS), linear programming (optimization), anomaly detection, feature learning, data comprssion techniques(SVD, matrix factorization), MLOps (ML pipeline), model interpretability (Explicable AI), ablation study, TextRank - grpah representation of text with PageRank
 
