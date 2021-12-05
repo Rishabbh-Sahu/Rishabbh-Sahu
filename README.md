@@ -9,7 +9,7 @@ I'm currently:
 
 - 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning (deepstates model-gluonTS), linear programming (optimization), anomaly detection, feature learning, data comprssion techniques(SVD, matrix factorization), MLOps (ML pipeline), model interpretability (Explicable AI), ablation study, TextRank - grpah representation of text with PageRank
 
-- 👀 Interested in doing research work/consulting assignments by sharing, learning and exploring to/from open source communities. Motivated to create numerous projects in the field of AI/ML/DL
+- 👀 Interested in doing research work/consulting assignments by sharing, learning and exploring to/from open source communities. Motivated to create numerous projects in the field of AI/ML/DL with the focus to deploy into production.
 
 - 👯 Looking forward to collaborate on ML/DL projects and Kaggle competitions
 
