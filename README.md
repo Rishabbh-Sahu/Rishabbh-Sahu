@@ -7,7 +7,7 @@ I'm currently:
 
 - 🔭 Working on deep learning projects such as transfer learning, pre-trained models (transformers), incremental models, layer pruning, quantization and distillation, language models to solve NLP downstream tasks like summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf, context based auto-completion, RestAPI's flask-endpoint, deployment & productionization, docker images & containers, kubernetes, GCR-GCP, CI/CD pipeline, gitHub hooks/actions(pre/post commit, workflows), DVC-pipeline, mongoDB, google-OCR etc.
 
-- 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning (deepstates model-gluonTS), linear programming (optimization), anomaly detection, feature learning, data comprssion techniques(SVD, matrix factorization), MLOps (ML pipeline), model interpretability (Explicable AI), ablation study, TextRank - grpah representation of text with PageRank
+- 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning (deepstates model-gluonTS), linear programming (optimization), anomaly detection, feature learning, data comprssion techniques(SVD, matrix factorization), MLOps (ML pipeline), model interpretability (Explicable-AI), ablation study, TextRank - grpah representation of text with PageRank
 
 - 👀 Interested in doing research work/consulting assignments by sharing, learning and exploring to/from open source communities. Motivated to create numerous projects in the field of AI/ML/DL with the focus to deploy into production.
 
