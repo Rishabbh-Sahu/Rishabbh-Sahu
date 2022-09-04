@@ -5,7 +5,7 @@
 <br />
 I'm currently:
 
-- 🔭 Working on deep learning projects such as transfer learning, pre-trained models (transformers), incremental models, layer pruning, quantization & distillation, language models to solve NLP downstream tasks like document parsing pipeline (banking sector), summarization, Q&A, NLU/NLG, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf/context-based, context based auto-completion, RestAPI's flask-endpoint, deployment & productionization, docker images & containers, kubernetes, GCR-GCP, CI/CD pipeline, gitHub hooks/actions(pre/post commit, workflows), DVC-pipeline, mongoDB, google-OCR, label studio etc.
+- 🔭 Working on deep learning projects such as transfer learning, pre-trained models (transformers), incremental models, layer pruning, quantization & distillation, language models to solve NLP downstream tasks like document parsing pipeline (banking sector), summarization, Q&A, NLU/NLG, context based auto-completion, RestAPI's flask-endpoint, deployment & productionization, docker images & containers, kubernetes, GCR-GCP, CI/CD pipeline, gitHub hooks/actions(pre/post commit, workflows), DVC-pipeline, mongoDB, google-OCR, label studio, Transformer's model interpretability etc.
 
 - 🌱 Learning autoencoders, self-supervised learning, optimization, time series analysis using deep learning (deepstates model-gluonTS), linear programming (optimization), anomaly detection, feature learning, data comprssion techniques(SVD, matrix factorization), MLOps (ML pipeline), model interpretability (Explicable-AI), ablation study, TextRank - grpah representation of text with PageRank
 
@@ -18,7 +18,7 @@ About my work:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishabbh-Sahu](https://github.com/Rishabbh-Sahu)
 
-- 💬 Ask me about NLU/NLP, time series analysis (forecasting), deep learning, data augmentation, dialog system (voice models), PLM's (pre-trained language models), model ensembling/stacking, feature selection methods, segmentation, tokenization (text), optimization, recommendation engine, customer-360 analysis, statistics, retail analytics, supply chain analytics, dimensionality reduction, regularization techniques, bias & varaince, DOE-design of experiments (ANOVA,T/F/Chi^2/Z-test), KS-test, sampling methods, A/B testing, crowd-sourcing (Toloka, Mtark etc.), Big-query, SQL
+- 💬 Ask me about NLU/NLP, intent/sequence/text/email classification, NER (named entity recognition), sentence/document/semantic similarity, information retrieval using tfidf/context-based, time series analysis (forecasting), deep learning, data augmentation, dialog system (voice models), PLM's (pre-trained language models), model ensembling/stacking, feature selection methods, segmentation, tokenization (text), optimization, recommendation engine, customer-360 analysis, statistics, retail analytics, supply chain analytics, dimensionality reduction, regularization techniques, bias & varaince, DOE-design of experiments (ANOVA,T/F/Chi^2/Z-test), KS-test, sampling methods, A/B testing, crowd-sourcing (Toloka, Mtark etc.), Big-query, SQL
 
 - 📫 You can reach me on www.linkedin.com/in/rishabbh-sahu-pmp
 
